@@ -1,0 +1,5 @@
+Hangman score per language, earn points by guessing !
+
+Python	: 10
+Java	: 4
+C	: 0
