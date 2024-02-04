@@ -8,4 +8,4 @@ It is ran in the terminal (no GUI), the goal is to guess a word chosen in the di
 
 
 ## Author
-Realized by Henrique D.
+Realized by Henrique D.M.M
